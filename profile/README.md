@@ -27,6 +27,8 @@ Senior project at MSU Denver, [EET Program](https://www.msudenver.edu/engineerin
 9. Eric Fiske, EET.
 10. Sean DeVaney, EET.
 
-## Faculty advisor
+## Faculty
 
-Ivo Georgiev ([in](https://www.linkedin.com/in/ivogeorgiev/))
+Ivo Georgiev ([in](https://www.linkedin.com/in/ivogeorgiev/)) (senior project advisor, recruiting, project management, systems engineering, software stack)  
+Brad McGarvey (circuits, serial protocols, PCB design)  
+Randy Owen ([in](https://www.linkedin.com/in/randyowen3/)) (CubeSats, ballonsats)  
