@@ -16,7 +16,7 @@ Senior project at MSU Denver, [EET Program](https://www.msudenver.edu/engineerin
 
 ## Alumni
 
-1. Daniel Perry, EET. (now at Lockheed Martin)
+1. Daniel Perry, EET. (at Lockheed Martin)
 2. Ekaterina Nechaeva, EET. (now at ULA)
 3. Seth Schister, EET. (now at Sierra Space)
 4. Ahmed Hussein, EET.
@@ -29,6 +29,6 @@ Senior project at MSU Denver, [EET Program](https://www.msudenver.edu/engineerin
 
 ## Faculty
 
-Ivo Georgiev ([in](https://www.linkedin.com/in/ivogeorgiev/)) (senior project advisor, recruiting, project management, systems engineering, software stack)  
+Ivo Georgiev, PhD ([in](https://www.linkedin.com/in/ivogeorgiev/)) (senior project advisor, recruiting, project management, systems engineering, software stack)  
 Brad McGarvey (circuits, serial protocols, PCB design)  
 Randy Owen ([in](https://www.linkedin.com/in/randyowen3/)) (CubeSats, balloonsats)  
