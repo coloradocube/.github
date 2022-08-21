@@ -31,4 +31,4 @@ Senior project at MSU Denver, [EET Program](https://www.msudenver.edu/engineerin
 
 Ivo Georgiev ([in](https://www.linkedin.com/in/ivogeorgiev/)) (senior project advisor, recruiting, project management, systems engineering, software stack)  
 Brad McGarvey (circuits, serial protocols, PCB design)  
-Randy Owen ([in](https://www.linkedin.com/in/randyowen3/)) (CubeSats, ballonsats)  
+Randy Owen ([in](https://www.linkedin.com/in/randyowen3/)) (CubeSats, balloonsats)  
